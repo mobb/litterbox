@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE8">
+    <name>Arroyo Quemado Transect 8</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Substrate is mostly bedrock with several large boulder outcrops. Some
+      moderate sized areas of sand present. Depth is approximately 30’. Kelp is continually cleared
+      in 2m band on all sides of this transect. </geographicDescription>
+    <completeDescription>Transect 8 begins 14m south of T7-0m. Bedrock substrate with several large
+      boulder outcrops. Some moderate sized areas of sand present. All markers are yellow ½” rebar
+      stakes about 20-40cm tall, some with tubing. The 16m rebar is in a crack between two large
+      boulders. Transect heading is 90 degrees. Light sensor located on the 0m stake as of 6/2010.
+      Kelp is continually cleared in 2m band on all sides of this transect. </completeDescription>
+    <verbatim date="" useType="0">
+      <infoReceived/>
+      <notesInfoReceived/>
+    </verbatim>
+    <verbatim date="2010-06-15" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>250 PTCA; 90% rock; Urchin front about 8m offshore; Areas of DL covered
+        DIOR near 32m; 16 and 40m in PTCA</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2010-06-15" useType="0">
+      <infoReceived>PAR Sensor</infoReceived>
+      <notesInfoReceived>PAR sensor located on the 0m rebar as of 6/2010.</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.037</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.067</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.467283</gPointLatitude>
+               <gPointLongitude>-120.117783</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MMLW" unit="meter">-9.1</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>90</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-28</minimum>
+        <maximum>-32</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

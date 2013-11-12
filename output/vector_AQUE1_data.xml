@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE1">
+    <name>Arroyo Quemado Transect 1</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Transect begins west of the river mouth, on the backside of one of the
+      larger ridges (1m). Bedrock substrate with some moderate relief (0-1.5 m). Depth is
+      approximately 24'.</geographicDescription>
+    <completeDescription>Transect begins west of the river mouth, on the backside of one of the
+      larger ridges. The 0m bolt lies directly offshore of where the edge of the ridge jogs in, and
+      then out, in a U-shape. Bedrock substrate with some moderate relief (0-1.5 m). All markers are
+      SS ¼” eyebolts with tubing. Bumpers and rebar are located at the 0 and 40. Transect heading is
+      90 degrees. Tidbits are located at the 0 and 8m bolts.</completeDescription>
+    <verbatim date="2010-07-08" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>5 PTCA; 100% rock; no adult kelp; Urchin barren with some reds at the end
+        of the transect; PACA and SPL common</notesInfoReceived>
+    </verbatim>
+    <verbatim date="" useType="0">
+      <infoReceived>Tidbits</infoReceived>
+      <notesInfoReceived>Tidbits present at the 0 and 8 meter bolts.</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.127</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.285</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.468783</gPointLatitude>
+               <gPointLongitude>-120.121417</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meter">-7.32</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>90</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-22</minimum>
+        <maximum>-25</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

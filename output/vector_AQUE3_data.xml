@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE3">
+    <name>Arroyo Quemado Transect 3</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Transect begins at the western edge of the hard substrate, nearly
+      directly offshore of the river mouth (~200 m). Silt covered bedrock and small boulder
+      substrate with little relief (0-0.5 m), some moderate sized areas of deep sand present along
+      with Pterygophora and Diopatra beds. Depth is approximately 30'.</geographicDescription>
+    <completeDescription>Transect begins at the western edge of the hard substrate, nearly directly
+      offshore of the river mouth (~200 m). Silt covered bedrock and small boulder substrate with
+      little relief (0-0.5 m), some moderate sized areas of deep sand present along with
+      Pterygophora and Diopatra beds. Bumpers at 0 and 40m. Most markers are SS ¼” eyebolts with
+      tubing. The 0, 24, and 40m have yellow rebar. Transect heading is 110-115 degrees. </completeDescription>
+    <verbatim date="2010-06-22" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>70-100 PTCA; 60% rock; no adult kelp; ~10 juv kelp; ~200 PTJ; DL, CYOS, red
+        algae, MPJ, and PTL/PTJ common</notesInfoReceived>
+    </verbatim>
+    <verbatim date="" useType="0">
+      <infoReceived>Direction</infoReceived>
+      <notesInfoReceived>Direction is an average over entire transect.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2008-07-01" useType="0">
+      <infoReceived>2008 Biota</infoReceived>
+      <notesInfoReceived>20-30% PTCA; ~70 kelp plants; 30% Rock; Lots of DL!&#xD;
+      </notesInfoReceived>
+    </verbatim>
+    <verbatim date="2010-06-22" useType="includeWithDescription">
+      <infoReceived>Maintenance needed</infoReceived>
+      <notesInfoReceived>16m bolt not found during maintenance, might need to
+        replace/find.</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.076</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.157</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.467933</gPointLatitude>
+               <gPointLongitude>-120.119283</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meters">-9.14</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>113</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-28</minimum>
+        <maximum>-32</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

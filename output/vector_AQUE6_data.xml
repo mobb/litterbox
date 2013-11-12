@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE6">
+    <name>Arroyo Quemado Transect 6</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Transect begins slightly west of the river mouth. Sand (1-3cm deep) and
+      bedrock substrate with low relief (0-0.5m). Depth is approximately 33
+      feet.</geographicDescription>
+    <completeDescription>Transect begins slightly west of the river mouth and offshore (~60m) from
+      T2-0m. Sand (1-3cm deep) and bedrock substrate with low relief (0-0.5m). Diopatra beds common.
+      0m bolt is located on a small rock ~0.5m above the surrounding substrate. 8m is a ½” rebar
+      stake, all others are SS ¼” eyebolts with tubing. Rebar and bumpers are present at the 0 and
+      40m. Transect heading is 90 degrees. </completeDescription>
+    <verbatim date="2010-06-22" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>15-20 PTCA; 80% rock; no adult kelp; 3 juv kelp; PTL, DL, urchins, DIOR,
+        and cryptic fish common.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2008-07-01" useType="0">
+      <infoReceived>2008 Biota</infoReceived>
+      <notesInfoReceived>0 PTCA; Silty sand; ~2 MAPY; Lots of DIOR; some DL</notesInfoReceived>
+    </verbatim>
+    <verbatim date="" useType="0">
+      <infoReceived/>
+      <notesInfoReceived/>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.053</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.251</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.46755</gPointLatitude>
+               <gPointLongitude>-120.12085</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meter">-10.06</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>90</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-30</minimum>
+        <maximum>-35</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE4">
+    <name>Arroyo Quemado Transect 4</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Transect begins east of the river mouth. Bedrock with several large
+      boulder outcrops creating some significant relief (0-2.5 m) along transect. Some moderate
+      sized areas of sand (1-5 m). Depth is approximately 23 feet.</geographicDescription>
+    <completeDescription>Transect begins east of the river mouth and is 20m @ 40 degrees from
+      Transect 7-40m stake. Bedrock with several large boulder outcrops creating some significant
+      relief (0-2.5 m) along transect. Some moderate sized areas of sand (1-5 m) present along with
+      Diopatra beds common. 0m bolt is on a flat ~0.5m high plateau ~3 m west of a large boulder
+      protruding from substrate (~2 m relief). Marker at 8m is SS ¼” eyebolt and is located at the
+      base of a large boulder before sand, all others are ½” rebar stakes with tubing. Transect
+      heading 90 degrees. Light sensor on 0 meter stake since 1/2008. 4-6 abalone often found in
+      bedrock shelves near 24m bolt. &#xD;</completeDescription>
+    <verbatim date="2010-06-15" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>75 PTCA; 80% rock; 1 adult kelp; Becoming an urchin barren; Mostly shallow
+        sand, some deeper sand.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="" useType="0">
+      <infoReceived>PAR Sensor</infoReceived>
+      <notesInfoReceived>PAR sensor located on the 0m rebar</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2008-07-01" useType="0">
+      <infoReceived>2009 Biota</infoReceived>
+      <notesInfoReceived>7 MAPY; 80 PTCA; 5 MPJ; 60% Rock</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.048</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.031</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.467467</gPointLatitude>
+               <gPointLongitude>-120.117183</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meter">-7.01</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>90</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-20</minimum>
+        <maximum>-25</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

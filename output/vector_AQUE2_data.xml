@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE2">
+    <name>Arroyo Quemado Transect 2</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Transect transverses slightly southeast across the prominent east/west
+      ridges. Bedrock substrate with some moderate relief (0-1.5 m). Depth is approximately
+      24'.</geographicDescription>
+    <completeDescription>Located 20m at 80 degrees from TR1-40m bolt. The 0m bolt lies 1m past base
+      of small (0.5m relief) ledge. Transect transverses slightly southeast across the prominent
+      east/west ridges. Bedrock substrate with some moderate relief (0-1.5m). All markers are SS ¼”
+      eyebolts with tubing. The 0 and 40m are marked with yellow rebar and bumpers. 8m bolt is on
+      the lip of a ridge. Transect heading is 90 degrees. </completeDescription>
+    <verbatim date="2010-07-08" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>~50 PTJ; 90% rock; no adult kelp; DL, APCA, YOY rockfish; PTJ, POLA, DIOR,
+        SPL, BLD, and EC common; Large urchin band moving across transect; Large areas of 3-5cm
+        DIAT; 32-40m has 100% DL cover.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2008-07-01" useType="0">
+      <infoReceived>2008 Biota</infoReceived>
+      <notesInfoReceived>90% rock; 10 PTCA; ~100 kelp plants; lots of DL, PACA; moderate red
+        algae</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.124</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.247</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.468733</gPointLatitude>
+               <gPointLongitude>-120.120783</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meters">-7.32</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>90</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-22</minimum>
+        <maximum>-25</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place system="" siteid="AQUE5">
+    <name>Arroyo Quemado Transect 5</name>
+    <alternateIdentifier system=""/>
+    <geographicDescription>Bedrock substrate, some moderate relief (0-1.5 m), one small overhanging
+      ridge with sand channels and Diopatra beds. Depth is approximately 33
+      feet.</geographicDescription>
+    <completeDescription>Located ~90m @180 degrees from T4-0m. Bedrock substrate, some moderate
+      relief (0-1.5m), one small overhanging ridge at 30m, with sand channels and Diopatra beds on
+      very flat bottom. Bumpers present at 0 and 40m. 16m marker is SS ¼” eyebolt, all other markers
+      are rebar stakes with tubing. 0m has both old and new rebar. Transect heading is 90-100
+      degrees. </completeDescription>
+    <verbatim date="" useType="0">
+      <infoReceived>Direction</infoReceived>
+      <notesInfoReceived>Transect direction is an average over entire transect.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2009-07-01" useType="0">
+      <infoReceived>2009 Biota</infoReceived>
+      <notesInfoReceived>11 MAPY; 1 PTCA; 0 MPJ; little to no red algae.</notesInfoReceived>
+    </verbatim>
+    <verbatim date="2010-07-08" useType="includeWithDescription">
+      <infoReceived>2010 Biota</infoReceived>
+      <notesInfoReceived>no PTCA or kelp; 50 % rock; Silty urchin barrens with lots of shallow sand;
+        SFL, SPL, DIOR, TEAU, and BAEL common; only algae on DIOR=POLA; Unknown spp. of gray-brown
+        sponge present.</notesInfoReceived>
+    </verbatim>
+    <vector>
+      <endPoint>
+        <gpsLocation>
+            <lat datum="WGS-84">
+               <degrees_integer>34</degrees_integer>
+               <minutes_decimal>28.011</minutes_decimal>
+               <compass_pt/>
+            </lat>
+            <lon datum="WGS-84">
+               <degrees_integer>120</degrees_integer>
+               <minutes_decimal>7.041</minutes_decimal>
+               <compass_pt/>
+            </lon>
+        </gpsLocation>
+        <gPoint>
+            <gPointXY>
+               <gPointLatitude>34.46685</gPointLatitude>
+               <gPointLongitude>-120.11735</gPointLongitude>
+            </gPointXY>
+            <gPointZ datum="MLLW" unit="meter">-10.06</gPointZ>
+        </gPoint>
+        <approxLocation>
+            <approxLat_decimal/>
+            <approxLon_decimal/>
+        </approxLocation>
+      </endPoint>
+      <direction>95</direction>
+      <length>40</length>
+      <width>2</width>
+      <altitudeRange datum="MLLW" unit="foot">
+        <minimum>-30</minimum>
+        <maximum>-35</maximum>
+      </altitudeRange>
+    </vector>
+    <imageLocation/>
+  </place>
