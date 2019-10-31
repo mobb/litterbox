@@ -130,7 +130,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">Best Practices for Dataset EML</a></li
+<li><a href="#">Data Package Best Practices</a></li>
+<ul>
+  <li><a href="#">Metadata Concepts</a></li>
+  <li><a href="#">Scientific Domain</a></li>
+  <li><a href="#">Challenging Data Types</a></li>
+</ul>  
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Preface</a></li>
@@ -154,8 +159,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="6" data-path="access.html"><a href="access.html"><i class="fa fa-check"></i><b>6</b> access</a></li>
 <li class="chapter" data-level="7" data-path="about-this-book.html"><a href="about-this-book.html"><i class="fa fa-check"></i><b>7</b> About this book</a><ul>
-<li class="chapter" data-level="7.1" data-path="about-this-book.html"><a href="about-this-book.html#guidelines"><i class="fa fa-check"></i><b>7.1</b> Guidelines:</a></li>
-<li class="chapter" data-level="7.2" data-path="about-this-book.html"><a href="about-this-book.html#other-stuff-maybe-drop"><i class="fa fa-check"></i><b>7.2</b> Other stuff, maybe drop</a></li>
+<li class="chapter" data-level="7.1" data-path="about-this-book.html"><a href="about-this-book.html#guidelines-and-requirmements"><i class="fa fa-check"></i><b>7.1</b> Guidelines and requirmements</a></li>
+<li class="chapter" data-level="7.2" data-path="about-this-book.html"><a href="about-this-book.html#steps-details-tbd"><i class="fa fa-check"></i><b>7.2</b> Steps (details TBD)</a></li>
+<li class="chapter" data-level="7.3" data-path="about-this-book.html"><a href="about-this-book.html#other-stuff-and-notes.-some-to-be-dropped"><i class="fa fa-check"></i><b>7.3</b> Other stuff, and notes. some to be dropped</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://EnvironmentalDataInitiative" target="blank">Environmental Data Initiative</a></li> LOGO HERE.
@@ -185,18 +191,36 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb4-2"><a href="about-this-book.html#cb4-2"></a><span class="co"># or the development version</span></span>
 <span id="cb4-3"><a href="about-this-book.html#cb4-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
 <p>It is based on the <em>sample</em> from <a href="https://bookdown.org/yihui/rmarkdown/bookdown-start.html" class="uri">https://bookdown.org/yihui/rmarkdown/bookdown-start.html</a></p>
-<div id="guidelines" class="section level2">
-<h2><span class="header-section-number">7.1</span> Guidelines:</h2>
+<div id="guidelines-and-requirmements" class="section level2">
+<h2><span class="header-section-number">7.1</span> Guidelines and requirmements</h2>
 <ul>
 <li>Each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading <code>#</code>.</li>
 <li>To compile the PDF, you need XeLaTeX. Install TinyTeX (which includes XeLaTeX): <a href="https://yihui.name/tinytex/" class="uri">https://yihui.name/tinytex/</a>.</li>
 </ul>
 </div>
-<div id="other-stuff-maybe-drop" class="section level2">
-<h2><span class="header-section-number">7.2</span> Other stuff, maybe drop</h2>
+<div id="steps-details-tbd" class="section level2">
+<h2><span class="header-section-number">7.2</span> Steps (details TBD)</h2>
+<ol style="list-style-type: decimal">
+<li>edit markdown</li>
+<li>review, e.g. by BP committee</li>
+<li>build book(s)</li>
+<li>move _book/* to docs</li>
+<li>add-commit-push (docs)</li>
+</ol>
+</div>
+<div id="other-stuff-and-notes.-some-to-be-dropped" class="section level2">
+<h2><span class="header-section-number">7.3</span> Other stuff, and notes. some to be dropped</h2>
 <ul>
+<li><p>how to pandoc</p></li>
+<li><p>how to handle citations with bib</p></li>
+<li><p>how to drop numbering!</p>
+<ul>
+<li>this: <code>## Metadata concept {-}</code></li>
+<li>or even this: <code># {-}</code></li>
+<li>it might be a hack. if so, advise on better way.</li>
+</ul></li>
+<li><p>To create a bib database for R packages</p></li>
 <li><p>the search function (in header) only works once files are on a server. to preview drafts, use serve_book (if installed) or generate thru an Rproject. (or just push it over to git where its gonna live anyway.)</p></li>
-<li><p>To create a bib database:</p></li>
 </ul>
 
 </div>
